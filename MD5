@@ -1,0 +1,15 @@
+23c5709452ef58a88315227bf0270cd2 *DESCRIPTION
+88d031c7198596513c0484fa46013b5f *LICENSE
+37c6d8e4605d16004a4ecdfbf7320231 *NAMESPACE
+8e993f23f77433102700da7d4c19094b *NEWS.md
+6b2d15df90678bf980d71dcbe258e313 *R/3_onAttach.R
+0e01a72dc39c0dfe3026020b4bceed7d *R/prediction_interval.R
+2684f6759b7771ed3277b8180bc21d1e *R/short_term_trend.R
+7f856343617b34bf0323f2157f380ba8 *README.md
+d5bb77fd285d60c76be1e4bc9f339517 *build/vignette.rds
+9acfbb2a9d7b69529ea4fe66d68ca4c8 *inst/doc/short_term_trend.R
+5a2bc41acf8509bb6d8998ecb0f58f0e *inst/doc/short_term_trend.Rmd
+44a2c714f9a4a5dac52c455c07b8fce9 *inst/doc/short_term_trend.html
+301d8e8cfd6149c34c0762c27cbda9f9 *man/figures/logo.png
+36f9ff053d8753df110b2bf99bd35599 *man/short_term_trend.Rd
+5a2bc41acf8509bb6d8998ecb0f58f0e *vignettes/short_term_trend.Rmd
